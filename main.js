@@ -74,3 +74,5 @@ function startGame(){
 }
 
 startGame();
+drwx();
+drwcir();
